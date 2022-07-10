@@ -29,7 +29,7 @@ yarn
    yarn build
    ```
 
-2. Copy `Bank.json` in `smart-contract\artifacts\contracts\Bank.sol\` to `C:\Users\paeto\Desktop\Work\scb10x\frontend\bank\build\contracts`
+2. Copy `Bank.json` in `\smart-contract\artifacts\contracts\Bank.sol\` to `\frontend\bank\build\contracts\`
 
 3. Start local testnet
 
