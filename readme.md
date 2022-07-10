@@ -31,7 +31,7 @@ yarn
 
 2. Copy `Bank.json` in `\smart-contract\artifacts\contracts\Bank.sol\` to `\frontend\bank\build\contracts\`
 
-3. Start local testnet
+3. Start local testnet and place the rpc url to `frontend\bank\web3.ts`
 
    ```bash
    yarn chain
@@ -43,7 +43,7 @@ yarn
    yarn deploy
    ```
 
-5. Get your contract andress and place it in `frontend\bank\web3.ts`
+5. Get your contract andress and place it in `frontend\bank\bank.ts`
 
 6. Start your frontend
 
